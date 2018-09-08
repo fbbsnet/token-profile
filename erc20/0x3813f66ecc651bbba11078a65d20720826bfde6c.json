@@ -1,0 +1,17 @@
+{
+  "symbol": "BCT",
+  "address": "0x3813f66ecc651bbba11078a65d20720826bfde6c",
+  "overview":{
+        "en":"BBCall is the content provider of chain link and currency circle, and realizes the ecological integrity of BBCall through resource integration.",
+        "zh":"BBCall是链圈、币圈的内容提供商，通过资源整合实现BBCall的生态完整。"
+  },
+  "email": "kefu@bbcall.info",
+  "website": "https://bbcall.info/",
+  "whitepaper": "",
+  "published_on": "2018-03-15",
+  "initial_price":{},
+  "links": {
+    "telegram": "https://0.plus/#/friendsbbs",
+    "twitter": "https://twitter.com/FriendsBBS1"
+  }
+}
